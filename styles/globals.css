@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.sup{
+  background-color: pink;
+}
